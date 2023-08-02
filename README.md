@@ -9,7 +9,7 @@ O `Nucleon` é o [IDP](https://internaldeveloperplatform.org/) desenvolvido e ut
 ## Nucleon e Clidias na midia
 
 - [AWS Podcast Brasil - #79: Entregando infraestrutura de forma ágil com a Creditas](https://d1oqpvwii7b6rh.cloudfront.net/episodes/EP79-creditas.mp3)
-- [WS Summit SP 2022 - Como reutilizar padrões ao desenvolver infraestrutura como código](https://www.youtube.com/watch?v=Y9JP4IE2Im4&list=PL2yQDdvlhXf8tnXo-3G8Qk9lKYCiSM2FG&index=51)
+- [AWS Summit SP 2022 - Como reutilizar padrões ao desenvolver infraestrutura como código](https://www.youtube.com/watch?v=Y9JP4IE2Im4&list=PL2yQDdvlhXf8tnXo-3G8Qk9lKYCiSM2FG&index=51)
 - [Medium Creditas-tech - Oi, entrei há pouco tempo na empresa, como crio e faço deploy de novas aplicações?](https://medium.com/creditas-tech/boa-tarde-entrei-h%C3%A1-pouco-tempo-na-empresa-como-crio-e-fa%C3%A7o-deploy-de-novas-aplica%C3%A7%C3%B5es-376fe1abab21)
 - [Kubicast - #59 - You built it, you run it](https://www.getup.io/kubicast/)
 
